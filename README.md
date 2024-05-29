@@ -28,10 +28,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!--範例-->
+    <!--<img src="images/logo.png" alt="Logo" width="80" height="80">-->
   </a>
  
- <h3 align="center">Best-README-Template-zh</h3>
+ <h3 align="center">github_test</h3>
 
  <p align="center">
  讓你快速開始建立專案的最佳 README 模板！
@@ -212,7 +213,7 @@ _磚道 [文件](https://example.com) 查看更多示範_
 ## 致謝
 
 在這裡列出你覺得有用的資源，並以此致謝。我已經添加了一些我喜歡的資源，以便你可以快速開始！
-<!-- 示範 -->
+<!-- 範例 -->
 <!--* [Choose an Open Source License](https://choosealicense.com)-->
 
 <p align="right">(<a href="#top">回頂端</a>)</p>
@@ -221,16 +222,16 @@ _磚道 [文件](https://example.com) 查看更多示範_
 
 <!-- MARKDOWN 連結 & 圖片 -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[contributors-url]: https://github.com/BreakingAwful/Best-README-Template-zh/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[forks-url]: https://github.com/BreakingAwful/Best-README-Template-zh/network/members
-[stars-shield]: https://img.shields.io/github/stars/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[stars-url]: https://github.com/BreakingAwful/Best-README-Template-zh/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[issues-url]: https://github.com/BreakingAwful/Best-README-Template-zh/issues
-[license-shield]: https://img.shields.io/github/license/BreakingAwful/Best-README-Template-zh.svg?style=for-the-badge
-[license-url]: https://github.com/BreakingAwful/Best-README-Template-zh/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/bro278911/github_test.svg?style=for-the-badge
+[contributors-url]: https://github.com/bro278911/github_test/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bro278911/github_test.svg?style=for-the-badge
+[forks-url]: https://github.com/bro278911/github_test/network/members
+[stars-shield]: https://img.shields.io/github/stars/bro278911/github_test.svg?style=for-the-badge
+[stars-url]: https://github.com/bro278911/github_test/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bro278911/github_test.svg?style=for-the-badge
+[issues-url]: https://github.com/bro278911/github_test/issues
+[license-shield]: https://img.shields.io/github/license/bro278911/github_test.svg?style=for-the-badge
+[license-url]: https://github.com/bro278911/github_test/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
