@@ -201,9 +201,9 @@ _磚道 [文件](https://example.com) 查看更多示範_
 <!-- 聯絡我 -->
 ## 聯絡我
 
-你的名字 - [@your_twitter](https://twitter.com/your_username) - email@example.com
+你的名字 - [@your_twitter](https://bro278911.github.io/person-description-/) - arvin8611@gmail.com
 
-項目連結: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+項目連結: [https://github.com/your_username/repo_name](https://github.com/bro278911/github_test)
 
 <p align="right">(<a href="#top">回頂端</a>)</p>
 
