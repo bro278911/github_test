@@ -27,7 +27,7 @@
 <!-- 项目 LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/bro278911/github_test">
     <!--範例-->
     <!--<img src="images/logo.png" alt="Logo" width="80" height="80">-->
   </a>
@@ -37,14 +37,14 @@
  <p align="center">
  讓你快速開始建立專案的最佳 README 模板！
  <br />
- <a href="https://github.com/othneildrew/Best-README-Template"><strong>瀏覽檔案 »</strong></a>
+ <a href="https://github.com/bro278911/github_test"><strong>瀏覽檔案 »</strong></a>
  <br />
  <br />
- <a href="https://github.com/othneildrew/Best-README-Template">查看 Demo</a>
+ <a href="https://github.com/bro278911/github_test">查看 Demo</a>
  ·
- <a href="https://github.com/othneildrew/Best-README-Template/issues">回報 Bug</a>
+ <a href="https://github.com/bro278911/github_test/issues">回報 Bug</a>
  ·
- <a href="https://github.com/othneildrew/Best-README-Template/issues">請求新功能</a>
+ <a href="https://github.com/bro278911/github_test/issues">請求新功能</a>
  </p>
 </div>
 
@@ -166,7 +166,7 @@ _磚道 [文件](https://example.com) 查看更多示範_
  - [x] 中文
  - [ ] 西班牙語
 
-到 [open issues](https://github.com/othneildrew/Best-README-Template/issues) 頁查看所有請求的功能 （以及已知的問題）。
+到 [open issues](https://github.com/bro278911/github_test/issues) 頁查看所有請求的功能 （以及已知的問題）。
 
 <p align="right">(<a href="#top">回頂端</a>)</p>
 
@@ -233,5 +233,5 @@ _磚道 [文件](https://example.com) 查看更多示範_
 [license-shield]: https://img.shields.io/github/license/bro278911/github_test.svg?style=for-the-badge
 [license-url]: https://github.com/bro278911/github_test/blob/master/LICENSE.txt
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew-->
+[linkedin-url]: https://linkedin.com/in/bro278911-->
 [product-screenshot]: images/screenshot.png
