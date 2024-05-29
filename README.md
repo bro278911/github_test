@@ -8,11 +8,11 @@
 
 
 
-<!-- 項目 SHIELDS -->
+<!-- 项目 SHIELDS -->
 <!--
-*** 我們使用了 markdown 「參考風格」的連結以便於閱讀。
-*** 參考連結是用方括號 [ ] 包圍起來的，而非 圓括號 ( )。
-*** 請到文件末尾查看 contributors-url、forks-url 等變數的聲明。這是一種可選的簡潔語法，你可能會想要使用。
+*** 我们使用了 markdown 「参考风格」的链接以便于阅读。
+*** 参考链接是用方括号 [ ] 包围起来的，而非 圆括号 ( )。
+*** 请到文档末尾查看 contributors-url、forks-url 等变量的声明。这是一种可选的简洁语法，你可能会想要使用。
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -21,7 +21,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- 項目 LOGO -->
