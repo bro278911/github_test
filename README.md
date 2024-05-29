@@ -1,9 +1,9 @@
 <div id="top"></div>
 <!--
-*** 感謝查看我們的最佳 README 模板，如果你有好的建議，請複刻（fork）本倉庫並且創建一個
-*** 拉取請求（pull request），或直接建立一個帶有「enhancement」標籤的議題（issue）。
-*** 不要忘記給該專案點一個 star！
-*** 再次感謝！現在快去創造一些了不起的東西吧！ :D
+*** 感谢查看我们的最佳 README 模板，如果你有好的建议，请复刻（fork）本仓库并且创建一个
+*** 拉取请求（pull request），或者直接创建一个带「enhancement」标签的议题（issue）。
+*** 不要忘记给该项目点一个 star！
+*** 再次感谢！现在快去创建一些了不起的东西吧！:D
 -->
 
 
@@ -23,10 +23,14 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<!-- 項目 LOGO -->
+
+<!-- 项目 LOGO -->
 <br />
 <div align="center">
-
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+ 
  <h3 align="center">Best-README-Template-zh</h3>
 
  <p align="center">
